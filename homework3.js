@@ -1,3 +1,4 @@
+// video explanation here: https://youtu.be/0F9gK6UlwbI
 function isPrime(number) {
   for (let i = 2; i < Math.ceil(Math.sqrt(number)); i++) {
     if (number % i === 0) {
